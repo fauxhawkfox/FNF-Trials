@@ -1,0 +1,11 @@
+enableDebugConsole = 2;
+
+
+class CfgDebriefingSections
+{
+	class Leaderboard
+	{
+		title = "SCORES";
+		variable = "timesRecord";
+	};
+};
